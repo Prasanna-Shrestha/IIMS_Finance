@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IIMS_Software:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IIMS_Software_jar</output-path>
+    <root id="archive" name="IIMS_Software.jar">
+      <element id="module-output" name="IIMS_Software" />
+    </root>
+  </artifact>
+</component>
